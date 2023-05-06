@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkOp0Tqi39wuiApDdEuyz4IY5ojRMHZ-lVBmGmEATl1XT-AMXkpAsgiWUdW1-IXYutcipnxMpi1Ok&usqp=CAU&ec=4866)]
 <h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
